@@ -1,6 +1,6 @@
 # 🔍 Menor Caminho com Dijkstra
 
-Este projeto em Python utiliza a biblioteca networkx para gerar um grafo aleatório e encontrar o menor caminho entre os pontos *A (origem)* e *B (destino), usando o algoritmo de **Dijkstra. O trajeto é exibido em uma **animação passo a passo com destaque visual* para cada vértice e aresta percorrida.
+Este projeto em Python utiliza a biblioteca networkx para gerar um grafo aleatório e encontrar o menor caminho entre os pontos *A (origem)* e *B (destino)*, usando o algoritmo de Dijkstra. O trajeto é exibido em uma animação passo a passo com destaque visual para cada vértice e aresta percorrida.
 
 ## 🧪 Tecnologias utilizadas
 
