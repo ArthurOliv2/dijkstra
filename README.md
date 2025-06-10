@@ -13,8 +13,8 @@ Este projeto em Python utiliza a biblioteca networkx para gerar um grafo aleató
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/grafo-animado.git
-cd grafo-animado
+git clone https://github.com/ArthurOliv2/dijkstra.git
+cd dijkstra
 ```
 2. instalar dependcias:
 
